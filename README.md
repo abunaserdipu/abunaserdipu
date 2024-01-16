@@ -4,7 +4,7 @@
 - :book: I’m currently learning C
 - :eyes: I’m looking to collaborate on Open Source Projects
 - :speech_balloon: Ask me about PHP & JavaScript
-- :mailbox_with_mail: How to reach me: linkedin.com/in/abunaserdipu/
+- :mailbox_with_mail: How to reach me: [linkedin.com/in/abunaserdipu/](https://www.linkedin.com/in/abunaserdipu/)
 <!--
 **abunaserdipu/abunaserdipu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
