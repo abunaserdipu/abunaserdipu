@@ -13,11 +13,11 @@ Welcome to my GitHub profile! I'm a passionate PHP and Laravel developer with a 
 ## 📈 GitHub Stats
 ![Abu Naser GitHub Stats](https://github-readme-stats.vercel.app/api?username=abunaserdipu&show_icons=true&hide_border=true)
 
-## 📚 Projects
+<-- ## 📚 Projects
 Here are a few projects I've worked on:
 - **[Project 1](link-to-project)**: Brief description.
 - **[Project 2](link-to-project)**: Brief description.
-- **[Project 3](link-to-project)**: Brief description.
+- **[Project 3](link-to-project)**: Brief description. -->
 
 ## 💼 Experience
 - Developed and maintained web applications at Circle Technology Ltd.
@@ -30,10 +30,10 @@ Here are a few projects I've worked on:
 ## 📫 How to Reach Me
 - **LinkedIn**: [linkedin.com/in/abunaserdipu/](https://www.linkedin.com/in/abunaserdipu/)
 - **Email**: [mdabunaserdipu@gmail.com](mailto:your-email@example.com)
-- **Website/Portfolio**: [your-website.com](link-to-website)
+<-- - **Website/Portfolio**: [your-website.com](link-to-website)
 
-## 🌟 Fun Fact
-[Include an interesting or fun fact about yourself]
+ ## 🌟 Fun Fact
+[Include an interesting or fun fact about yourself] -->
 
 ## 🔗 Let's Connect
 Feel free to connect with me through the above links or check out my repositories to see my work.
