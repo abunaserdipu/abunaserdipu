@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Abu Naser Dipu] 👋
 
 Welcome to my GitHub profile! I'm a passionate PHP and Laravel developer with a year of experience in building dynamic and responsive web applications.
 
@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate PHP and Laravel developer with a 
 - API Integration
 
 ## 📈 GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_border=true)
+![Abu Naser GitHub Stats](https://github-readme-stats.vercel.app/api?username=abunaserdipu&show_icons=true&hide_border=true)
 
 ## 📚 Projects
 Here are a few projects I've worked on:
@@ -39,16 +39,3 @@ Here are a few projects I've worked on:
 Feel free to connect with me through the above links or check out my repositories to see my work.
 
 Thanks for stopping by!
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on PHP & JavaScript Projects
-- 🌱 I’m currently learning Laravel,Vue JS
-- 👯 I’m looking to collaborate on Software Company
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about PHP & JavaScript
-- 📫 How to reach me: https://www.linkedin.com/in/abunaserdipu/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
