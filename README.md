@@ -29,8 +29,8 @@ Here are a few projects I've worked on:
 
 ## 📫 How to Reach Me
 - **LinkedIn**: [linkedin.com/in/abunaserdipu/](https://www.linkedin.com/in/abunaserdipu/)
-- **Email**: [mdabunaserdipu@gmail.com](mailto:your-email@example.com)
-<!-- - **Website/Portfolio**: [your-website.com](link-to-website)
+<!-- - **Email**: [mdabunaserdipu@gmail.com](mailto:your-email@example.com)
+ - **Website/Portfolio**: [your-website.com](link-to-website)
 
  ## 🌟 Fun Fact
 [Include an interesting or fun fact about yourself] -->
