@@ -1,9 +1,9 @@
 ### Hello world :raised_hand: I'm a Full Stack Developer
 
 - :briefcase: I’m currently working on Laravel Projects
-- :book: I’m currently learning C
+- :book: I’m currently learning Data Structure & Algorithm
 - :eyes: I’m looking to collaborate on Open Source Projects
-- :speech_balloon: Ask me about PHP & JavaScript
+- :speech_balloon: Ask me about PHP & Laravel
 - :mailbox_with_mail: How to reach me: [linkedin.com/in/abunaserdipu/](https://www.linkedin.com/in/abunaserdipu/)
 <!--
 **abunaserdipu/abunaserdipu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
