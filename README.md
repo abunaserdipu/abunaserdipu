@@ -1,6 +1,6 @@
  # Hi there, I'm Abu Naser Dipu 👋
 
-Welcome to my GitHub profile! I'm a passionate PHP and Laravel developer with a year of experience in building dynamic and responsive web applications.
+Welcome to my GitHub profile! I'm a passionate PHP and Laravel developer with professional experience in building web applications.
 <!--
 ## 🔧 Technologies & Tools
 - PHP
