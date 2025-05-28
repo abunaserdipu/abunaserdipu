@@ -24,14 +24,14 @@
 ## 🚀 Projects
 Here are a few highlights:
 
-- 🔹 **[Research & Management Portfolio](https://github.com/abunaserdipu/portfolio-project)**  
-  A dynamic web application with admin backend using Laravel and frontend with Next.js. Includes service listing, blog management, and team showcase.
+- 🔹 **[Barishal Courier](https://github.com/abunaserdipu/courier-management)**  
+  A full-stack courier management system built with **Laravel** and **Vue.js**. Features include parcel tracking, branch-wise operations, and delivery logs.
 
-- 🔹 **[Team Page Showcase](https://github.com/abunaserdipu/team-showcase)**  
-  Fancy team section with interactive modals and animated profiles using Tailwind and Framer Motion.
+- 🔹 **[Vorti Hoi](https://github.com/abunaserdipu/vorti-hoi)**  
+  An admission management web app developed using **CodeIgniter** and **React.js**. Supports student registration, application tracking, and administrative control.
 
-- 🔹 **[Startup Tech Support Platform](https://github.com/abunaserdipu/startup-support)**  
-  A platform offering tools and templates for new businesses with dashboards and API integrations.
+- 🔹 **[IsDB-Hospital](https://github.com/abunaserdipu/hospital_management_system)**  
+  A complete hospital management solution developed in **Raw PHP**. Includes patient registration, doctor management, appointment scheduling, and reporting.
 
 ---
 
