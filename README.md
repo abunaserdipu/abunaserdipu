@@ -46,7 +46,7 @@ Here are a few highlights:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abunaserdipu)  
 📧 Email: mdabunaserdipu@gmail.com  
-🌐 Portfolio: [yourwebsite.com]https://abu-naser-website.firebaseapp.com/
+🌐 Portfolio: https://abu-naser-website.firebaseapp.com/
 
 ---
 
