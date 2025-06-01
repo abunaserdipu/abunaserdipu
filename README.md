@@ -37,7 +37,7 @@ Here are a few highlights:
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=abunaserdipu&show_icons=true&theme=tokyonight&count_private=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=abunaserdipu&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abunaserdipu&layout=compact&theme=tokyonight)
 
 ---
