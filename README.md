@@ -45,7 +45,7 @@ Here are a few highlights:
 ## 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abunaserdipu)  
-📧 Email: mdabunaserdipu@gmail.com  
+📧 Email: abunaserdipu0@gmail.com  
 🌐 Portfolio: https://abu-naser-website.firebaseapp.com/
 
 ---
