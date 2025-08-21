@@ -1,12 +1,12 @@
 # 👋 Hello, I'm MD. Abu Naser Dipu  
-### Junior Software Developer | Full-Stack Developer | Laravel & React Enthusiast
+### Full-Stack Developer | Laravel & React Enthusiast
 
 ---
 
 ## 🧠 About Me
 - 💻 Passionate about building scalable full-stack applications
 - 🛠️ Skilled in Laravel, Next.js, React, Tailwind CSS, and MySQL
-- 🌍 Focused on research & management-based solutions
+- 🌍 Focused on Sass & management based solutions
 - 📈 Always learning and improving — especially in backend architecture and UI/UX
 
 ---
