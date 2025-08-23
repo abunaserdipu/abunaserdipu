@@ -3,7 +3,7 @@
 
 ---
 
-## 🧠 About Me
+## 💡 About Me
 - 💻 Passionate Full-Stack Developer with over 2 years of experience crafting robust and scalable web applications.
 - 🛠️ Expertise spans both front-end (React.js, Next.js, Vue.js, Tailwind CSS) and back-end (PHP, Laravel, CodeIgniter, MySQL) development.
 - 🌍 Thrives on building innovative solutions, with a particular focus on SaaS platforms, API development, and efficient management systems.
