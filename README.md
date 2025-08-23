@@ -1,13 +1,13 @@
 # 👋 Hello, I'm MD. Abu Naser Dipu  
-### Full-Stack Developer | Laravel & React Enthusiast
+### 🚀 Full-Stack Developer | Laravel & React.js Enthusiast | SaaS & API Specialist
 
 ---
 
 ## 🧠 About Me
-- 💻 Passionate about building scalable full-stack applications
-- 🛠️ Skilled in Laravel, Next.js, React, Tailwind CSS, and MySQL
-- 🌍 Focused on Sass & management based solutions
-- 📈 Always learning and improving — especially in backend architecture and UI/UX
+- 💻 Passionate Full-Stack Developer with over 2 years of experience crafting robust and scalable web applications.
+- 🛠️ Expertise spans both front-end (React.js, Next.js, Vue.js, Tailwind CSS) and back-end (PHP, Laravel, CodeIgniter, MySQL) development.
+- 🌍 Thrives on building innovative solutions, with a particular focus on SaaS platforms, API development, and efficient management systems.
+- 📈 Always eager to embrace new challenges and continuously expand my skill set in backend architecture and intuitive UI/UX.
 
 ---
 
@@ -21,8 +21,11 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 Here are a few highlights:
+
+- 🔹 **API Selling SaaS Platform**  
+  Developed a full-stack API-selling SaaS with **Next.js** frontend & **Laravel + Filament** backend, including API key generation, rate limiting, and subscription billing.
 
 - 🔹 **[Barishal Courier](https://github.com/abunaserdipu/courier-management)**  
   A full-stack courier management system built with **Laravel** and **Vue.js**. Features include parcel tracking, branch-wise operations, and delivery logs.
@@ -44,7 +47,7 @@ Here are a few highlights:
 ## 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abunaserdipu)  
-📧 Email: abunaserdipu0@gmail.com  
+📧 Email: mdabunaserdipu@gmail.com  
 🌐 Portfolio: https://abu-naser-website.firebaseapp.com/
 
 ---
